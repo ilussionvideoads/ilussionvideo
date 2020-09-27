@@ -20,7 +20,7 @@ Encode only the frames that have changed instead of re-encoding entire files for
 Let’s change the way we connect.
 ## [:zap:IlussionVideo BetaVersion 17.2](https://mega.nz/file/1dh02T6B#hZAQGdLIqESDH5fetXVCHpPGOY1gR0guIe3IArLfl6o):After contact a Manager for further information.
 Minimum:
-Operating System: Windows 10.
+Operating System: Windows 10,7,8,xp.
 Processor: Intel Pentium 4 (Prescott)
 Memory: 4 GB RAM.
 Graphics: NVIDIA GeForce GTX 560

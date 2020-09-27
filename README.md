@@ -17,7 +17,7 @@ High quality, tape style scrubbing with pitch correction makes it easier to unde
 Encode only the frames that have changed instead of re-encoding entire files for dramatically faster rendering when delivering!
 
 
-Let’s change the way we connect.
+Let’s change the way we progress.
 ## [:zap:IlussionVideo BetaVersion 17.2](https://mega.nz/file/DSpWCagK#Zbo5wvwbDaPlVIEFm0Z0NV_XXa7ZwfczboWkZ_bwej8):After contact a Manager for further information.
 Minimum:
 Operating System: Windows 10,7,8,xp.

@@ -23,5 +23,5 @@ Minimum:
 Operating System: Windows 10,7,8,xp.
 Processor: Intel Pentium 4 (Prescott)
 Memory: 4 GB RAM.
-Graphics: NVIDIA GeForce GTX 560
+Graphics: NVIDIA GeForce  GTX  560
 Hard Drive: 1TB (SSD or HDD)

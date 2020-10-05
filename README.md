@@ -18,7 +18,7 @@ Encode only the frames that have changed instead of re-encoding entire files for
 
 
 Let’s change the way we progress.
-## [:zap:IlussionVideo BetaVersion 17.2](https://mega.nz/file/K2oy2bqY#nHPQoGVwnIMkQ1tfnQAd3WtHBHBK8kFNZbRXsp81H-A)contact a Manager for further information.
+## [:zap:IlussionVideo BetaVersion 17.2](https://mega.nz/file/K2oy2bqY#nHPQoGVwnIMkQ1tfnQAd3WtHBHBK8kFNZbRXsp81HA)contact a Manager for further information.
 Minimum:
 Operating System: Windows 10,7,8,xp.
 Processor: Intel Pentium 4 (Prescott)

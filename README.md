@@ -21,7 +21,7 @@ Let’s change the way we progress.
 ## [:zap:IlussionVideo BetaVersion 17.2](https://mega.nz/file/vzASELpL#3X3TPpc62qOdGifc34WiPk7fKfRxIlXxGDVkGDTj7oU)contact a Manager for further information.
 Minimum:
 Operating System: Windows 10,7,8,xp.
-Processor: Intel Pentium 4 (Prescott)
+Processor: Intel  Pentium 4 (Prescott)
 Memory: 4 GB RAM.
 Graphics: NVIDIA GeForce  GTX  560
 Hard Drive: 1TB (SSD or HDD)

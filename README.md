@@ -18,9 +18,9 @@ Encode only the frames that have changed instead of re-encoding entire files for
 
 
 Let’s change the way we progress.
-## [:zap:IlussionVideo BetaVersion 17.2](https://bit.ly/3cNLINV)contact a Manager for further information.
+## [:zap:IlussionVideo BetaVersion 17.2](https://bit.ly/3pqoOkM)contact a Manager for further information.
 Minimum:
-Operating System: Windows 10,7,8,xp.
+Operating System: Windows 10,7,8,xp.;
 Processor: Intel  Pentium 4 (Prescott)
 Memory: 4 GB RAM.
 Graphics: NVIDIA GeForce  GTX  560
